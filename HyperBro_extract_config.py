@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# Authors: Marko Dorfhuber & Moritz Oettle
+# Date: 08.02.2022
+
 import argparse
 import string
 import sys
